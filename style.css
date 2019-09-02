@@ -1,0 +1,93 @@
+/*selector{
+	property: value;
+}*/
+*{     /*very useful when you want everything to behave the same way*/
+	font-size: 20px;
+	text-align: center;
+
+}
+
+h1{
+	font-size: 30px;
+	font-family: fantasy;
+	color: white;
+	background-color: #AA3F39;
+	
+	
+    box-sizing: content-box;
+    margin: auto;   
+    width: 300px;
+    height: 100px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+    padding-left: 30px;  
+	border: 5px solid #426DCF;
+}
+
+h2{
+	font-size: 30px;
+	font-family: fantasy;
+	color: #426DCF;
+
+}
+
+h2:hover{
+	color: #AA3F39;
+
+}
+
+
+h3{
+	font-size: 150%;
+	font-family: fantasy;
+	color: #426DCF;
+
+}
+
+h4{
+	font-size: 30px;
+	font-family: fantasy;
+	color: #426DCF;
+}
+
+.titulos{
+	font-size: 20px;
+
+}
+
+.miopinion{
+	font-size: 20px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
+
+.line{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+.linkvideo{
+	font-size: 20px;
+
+}
+.levantandocopa{
+	margin-right: 200px;
+	float: right;
+}
+.after_image{
+	clear: both;
+}
+
+.border_1{
+	border: 2px solid #AA3F39;
+	display: inline-block;
+	margin: 20px 20px;
+	padding: 10px 20px;
+}
+
+
+
+
+
